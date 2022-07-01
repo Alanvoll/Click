@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f81bbd3cfeb4c3aa314cf343c3fe42a, type: 3}
+  m_Name: Credits Settings
+  m_EditorClassIdentifier: 
+  _credits:
+  - _title: 'Created by:'
+    _infoRows:
+    - Volkov Anton
+  - _title: 'Game designer:'
+    _infoRows:
+    - Volkov Anton
+  - _title: Thanks
+    _infoRows:
+    - Volkov Anton
+    - Volkov Anton
+    - Volkov Anton
+    - Volkov Anton
+    - Volkov Anton
+    - Volkov Anton
+    - Volkov Anton
+    - Volkov Anton
+    - Volkov Anton
+  - _title: 'Mysic by:'
+    _infoRows:
+    - Something
+    - Something
+    - Something
+    - Something
+    - Something
+    - Something
+    - Something
+    - Something
+    - Something
+  - _title: 'Art by:'
+    _infoRows:
+    - Something searched from internet
+    - Something self make

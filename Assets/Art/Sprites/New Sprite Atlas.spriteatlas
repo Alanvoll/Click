@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 890c1bee2b51e524bad9d1225bd89e99, type: 3}
+    - {fileID: 2800000, guid: aa9591a0fc99afa438c7fd061a040af9, type: 3}
+    - {fileID: 2800000, guid: 3a35fbf2daba8844f95c9ead7039a107, type: 3}
+    - {fileID: 2800000, guid: de7a4282fe4308d45a9280260aaa8416, type: 3}
+    - {fileID: 2800000, guid: 71eae51a49a717d4b8ddcfc1bf49c959, type: 3}
+    - {fileID: 2800000, guid: f51952fcae478ce4f9cb9697f5225ad4, type: 3}
+    - {fileID: 2800000, guid: d4988b2f991f0b041acddfc97edb42e6, type: 3}
+    - {fileID: 2800000, guid: fdb55b2b29dfd75449f984cdf832402b, type: 3}
+    - {fileID: 2800000, guid: 9df2c2b30c5a2da4c8c9b2f903d124da, type: 3}
+    - {fileID: 2800000, guid: be812eadbd7316045943416c94be5e2b, type: 3}
+    - {fileID: 2800000, guid: 8347193fbfbf3c94fac615870eef3b69, type: 3}
+    - {fileID: 2800000, guid: 6ef7dbb2c0054e341b14ec2c0d60d527, type: 3}
+    - {fileID: 2800000, guid: 901715f0ca514aa4dbca8c2ced33da0d, type: 3}
+    - {fileID: 2800000, guid: bbd68d65cf2896d419753ff42d50fd60, type: 3}
+    - {fileID: 2800000, guid: daa33fd89e49b7e4ab35b8fea2c87580, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites: []
+  m_PackedSpriteNamesToIndex: []
+  m_RenderDataMap: {}
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0
